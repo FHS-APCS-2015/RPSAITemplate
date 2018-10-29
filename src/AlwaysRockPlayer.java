@@ -1,7 +1,8 @@
 /***
  * This player always plays rock.
  * 
- * @author David
+ * @author David 
+ * HELLO
  *
  */
 public class AlwaysRockPlayer implements Player {
